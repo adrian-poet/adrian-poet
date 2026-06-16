@@ -1,24 +1,24 @@
-# ¡Hola! Soy Adrián 👋
+# ¡Hola, soy Adrián! 👋
 
-Analista de Datos orientado a Business Intelligence y soluciones de gestión de negocio. Me apasiona transformar datos crudos en insights estratégicos y automatizar procesos para mejorar la toma de decisiones.
-
----
-
-### 🚀 Sobre mí
-- 📊 **Especialista en BI y Datos:** Con más de 500 horas de formación técnica avanzada en herramientas de análisis y reportería.
-- 💼 **Consultor Tango Software:** Certificado como **Tango Elite**, combinando el análisis de datos con la optimización de sistemas de gestión empresarial.
-- 🎓 **En constante aprendizaje:** Enfocado en la ciencia de datos aplicada a la economía y los negocios.
-- 🧠 **Docencia:** Apasionado por compartir conocimiento, ayudando a alumnos particulares a dar sus primeros pasos en lógica de programación.
+Un apasionado del **Análisis de Datos**, la **Business Intelligence** y la optimización de procesos de negocio. Mi enfoque combina la rigurosidad técnica con una visión estratégica para transformar datos crudos en decisiones clave.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
-- **Lenguajes & Querying:** SQL (CTEs, Window Functions), Python (Pandas, NumPy, Matplotlib/Seaborn), R
-- **Business Intelligence:** Power BI (DAX, Power Query), Tableau, Looker Studio
-- **Gestión & ETL:** Excel Avanzado, Tango Gestión
-- **Lógica:** PSeInt
+### 💼 Perfil Profesional
+- **Data Analyst | SQL & Business Intelligence Specialist**
+- **Consultor Tango Software** (Certificación *Tango Expert* 🚀)
+- Especialista en modelado de datos, creación de tableros logísticos, financieros y analítica avanzada para la detección de Churn.
 
 ---
 
-### 📂 Próximamente Proyectos Destacados
-*Actualmente estructurando mis proyectos de analítica en Logística y Mercado Inmobiliario. ¡Volvé pronto para ver las actualizaciones!*
+### 🛠️ Tecnologías y Herramientas Key
+- **Bases de Datos & Lenguajes:** SQL (CTEs, Window Functions, Optimización de Vistas), Python (Pandas, NumPy), R.
+- **Business Intelligence:** Power BI (DAX, Power Query), Tableau, Looker Studio.
+- **Gestión ERP:** Tango Gestión (Módulos integrales y simuladores).
+
+---
+
+### 📊 Formación Destacada
+- **+500 horas de formación técnica avanzada** en herramientas de Data Analytics y BI (Coderhouse & UDEMY).
+- **Certificación Tango Software** — Dominio experto en soluciones de gestión empresarial.
+- Formación continua orientada a la Ciencia de Datos aplicada a la economía y los negocios.
